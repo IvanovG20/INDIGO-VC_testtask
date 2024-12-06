@@ -8,7 +8,7 @@
 
 Склонируйте репозиторий
 ```
-git clone https://github.com/IvanovG20/INDIGO-VC_testtask.git
+git clone https://github.com/IvanovG20/indigo_testtask.git
 ```
 Создайте и активируйте виртуальное окружение:
 ```
