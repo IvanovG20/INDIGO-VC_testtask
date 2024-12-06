@@ -25,6 +25,14 @@ pip install -r requirements.txt
 ```
 cd indigo/
 ```
+Создайте миграции
+```
+python manage.py makemigrations
+```
+Примените миграции
+```
+python manage.py migrate
+```
 В терминале пропишите команду запуска сервера
 ```
 python manage.py runserver
